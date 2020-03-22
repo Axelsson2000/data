@@ -1,0 +1,306 @@
+Country,Region,Subregion,Alpha-2 code,Alpha-3 code,Numeric code,Internet ccTLD
+Afghanistan,ASIA,ASIA,AF,AFG,004,.af
+Albania,EUROPE,EUROPE,AL,ALB,008,.al
+Algeria,AFRICA,Northern Africa,DZ,DZA,012,.dz
+Andorra,EUROPE,EUROPE,AD,AND,020,.ad
+Angola,AFRICA,Middle Africa,AO,AGO,024,.ao
+Anguilla,THE AMERICAS,The Caribbean,AI,AIA,660,.ai
+Antigua and Barbuda,THE AMERICAS,The Caribbean,AG,ATG,028,.ag
+Argentina,THE AMERICAS,South America,AR,ARG,032,.ar
+Armenia,ASIA,ASIA,AM,ARM,051,.am
+Aruba,THE AMERICAS,The Caribbean,AW,ABW,533,.aw
+Australia,OCEANIA,OCEANIA,AU,AUS,036,.au
+Austria,EUROPE,EUROPEAN UNION,AT,AUT,040,.at
+Azerbaijan,ASIA,ASIA,AZ,AZE,031,.az
+Bahamas,THE AMERICAS,The Caribbean,BS,BHS,044,.bs
+Bahamas (the),THE AMERICAS,The Caribbean,BS,BHS,044,.bs
+Bahrain,MIDDLE EAST,MIDDLE EAST,BH,BHR,048,.bh
+Bangladesh,ASIA,ASIA,BD,BGD,050,.bd
+Barbados,THE AMERICAS,The Caribbean,BB,BRB,052,.bb
+Belarus,EUROPE,EUROPE,BY,BLR,112,.by
+Belgium,EUROPE,EUROPEAN UNION,BE,BEL,056,.be
+Belize,THE AMERICAS,Central America,BZ,BLZ,084,.bz
+Benin,AFRICA,Western Africa,BJ,BEN,204,.bj
+Bermuda,THE AMERICAS,Northern America,BM,BMU,060,.bm
+Bhutan,ASIA,ASIA,BT,BTN,064,.bt
+Bolivia,THE AMERICAS,South America,BO,BOL,068,.bo
+"Bonaire, Saint Eustatius and Saba",THE AMERICAS,The Caribbean,BQ,BES,535,.bq .nl
+Bosnia and Herzegovina,EUROPE,EUROPE,BA,BIH,070,.ba
+Botswana,AFRICA,Southern Africa,BW,BWA,072,.bw
+Brazil,THE AMERICAS,South America,BR,BRA,076,.br
+British Virgin Islands,THE AMERICAS,The Caribbean,VG,VGB,092,.vg
+Brunei,ASIA,ASIA,BN,BRN,096,.bn
+Bulgaria,EUROPE,EUROPEAN UNION,BG,BGR,100,.bg
+Burkina Faso,AFRICA,Western Africa,BF,BFA,854,.bf
+Burundi,AFRICA,Eastern Africa,BI,BDI,108,.bi
+Cambodia,ASIA,ASIA,KH,KHM,116,.kh
+Cameroon,AFRICA,Middle Africa,CM,CMR,120,.cm
+Canada,THE AMERICAS,Northern America,CA,CAN,124,.ca
+Cape Verde,AFRICA,Western Africa,CV,CPV,132,.cv
+Cabo Verde,AFRICA,Western Africa,CV,CPV,132,.cv
+Cayman Islands,THE AMERICAS,The Caribbean,KY,CYM,136,.ky
+Cayman Islands (the),THE AMERICAS,The Caribbean,KY,CYM,136,.ky
+Central African Republic,AFRICA,Middle Africa,CF,CAF,140,.cf
+Chad,AFRICA,Middle Africa,TD,TCD,148,.td
+Chile,THE AMERICAS,South America,CL,CHL,152,.cl
+China,ASIA,ASIA,CN,CHN,156,.cn
+Colombia,THE AMERICAS,South America,CO,COL,170,.co
+Comoros,AFRICA,Eastern Africa,KM,COM,174,.km
+Costa Rica,THE AMERICAS,Central America,CR,CRI,188,.cr
+Cote d'Ivoire,AFRICA,Western Africa,CI,CIV,384,.ci
+Côte d'Ivoire,AFRICA,Western Africa,CI,CIV,384,.ci
+Croatia,EUROPE,EUROPE,HR,HRV,191,.hr
+Cuba,THE AMERICAS,The Caribbean,CU,CUB,192,.cu
+Curaçao,THE AMERICAS,The Caribbean,CW,CUW,531,.cw
+Cyprus,EUROPE,EUROPEAN UNION,CY,CYP,196,.cy
+Czech Republic,EUROPE,EUROPEAN UNION,CZ,CZE,203,.cz
+Czech Republic (Czechia),EUROPE,EUROPEAN UNION,CZ,CZE,203,.cz
+Czechia,EUROPE,EUROPEAN UNION,CZ,CZE,203,.cz
+Democratic Republic of the Congo,AFRICA,Middle Africa,CD,COD,180,.cd
+Congo,AFRICA,Middle Africa,CD,COD,180,.cd
+DR Congo,AFRICA,Middle Africa,CD,COD,180,.cd
+Congo-Kinshasa,AFRICA,Middle Africa,CD,COD,180,.cd
+Denmark,EUROPE,EUROPEAN UNION,DK,DNK,208,.dk
+Djibouti,AFRICA,Eastern Africa,DJ,DJI,262,.dj
+Dominica,THE AMERICAS,The Caribbean,DM,DMA,212,.dm
+Dominican Republic,THE AMERICAS,The Caribbean,DO,DOM,214,.do
+Ecuador,THE AMERICAS,South America,EC,ECU,218,.ec
+Egypt,AFRICA,Northern Africa,EG,EGY,818,.eg
+El Salvador,THE AMERICAS,Central America,SV,SLV,222,.sv
+Equatorial Guinea,AFRICA,Middle Africa,GQ,GNQ,226,.gq
+Eritrea,AFRICA,Eastern Africa,ER,ERI,232,.er
+Estonia,EUROPE,EUROPEAN UNION,EE,EST,233,.ee
+Ethiopia,AFRICA,Eastern Africa,ET,ETH,231,.et
+Falkland Islands (Malvinas),THE AMERICAS,South America,FK,FLK,238,.fk
+Faroe Islands,EUROPE,EUROPE,FO,FRO,234,.fo
+Faeroe Islands,EUROPE,EUROPE,FO,FRO,234,.fo
+Faroe Islands (the),EUROPE,EUROPE,FO,FRO,234,.fo
+Fiji,OCEANIA,OCEANIA,FJ,FJI,242,.fj
+Finland,EUROPE,EUROPEAN UNION,FI,FIN,246,.fi
+France,EUROPE,EUROPEAN UNION,FR,FRA,250,.fr
+French Guiana,THE AMERICAS,South America,GF,GUF,254,.gf
+French Polynesia,OCEANIA,OCEANIA,PF,PYF,258,.pf
+Gabon,AFRICA,Middle Africa,GA,GAB,266,.ga
+Gambia,AFRICA,Western Africa,GM,GMB,270,.gm
+Gambia (the),AFRICA,Western Africa,GM,GMB,270,.gm
+Georgia,ASIA,ASIA,GE,GEO,268,.ge
+Germany,EUROPE,EUROPEAN UNION,DE,DEU,276,.de
+Ghana,AFRICA,Western Africa,GH,GHA,288,.gh
+Gibraltar,EUROPE,EUROPE,GI,GIB,292,.gi
+Greece,EUROPE,EUROPEAN UNION,GR,GRC,300,.gr
+Greenland,THE AMERICAS,Northern America,GL,GRL,304,.gl
+Grenada,THE AMERICAS,The Caribbean,GD,GRD,308,.gd
+Guadeloupe,THE AMERICAS,The Caribbean,GP,GLP,312,.gp
+Guam,OCEANIA,OCEANIA,GU,GUM,316,.gu
+Guatemala,THE AMERICAS,Central America,GT,GTM,320,.gt
+Guernsey and Alderney,EUROPE,EUROPE,GG,GGY,831,.gg
+Guernsey,EUROPE,EUROPE,GG,GGY,831,.gg
+Guinea,AFRICA,Western Africa,GN,GIN,324,.gn
+Guinea-Bissau,AFRICA,Western Africa,GW,GNB,624,.gw
+Guyana,THE AMERICAS,South America,GY,GUY,328,.gy
+Haiti,THE AMERICAS,The Caribbean,HT,HTI,332,.ht
+Honduras,THE AMERICAS,Central America,HN,HND,340,.hn
+Hong Kong,ASIA,ASIA,HK,HKG,344,.hk
+Hungary,EUROPE,EUROPEAN UNION,HU,HUN,348,.hu
+Iceland,EUROPE,EUROPE,IS,ISL,352,.is
+India,ASIA,ASIA,IN,IND,356,.in
+Indonesia,ASIA,ASIA,ID,IDN,360,.id
+Iran,MIDDLE EAST,MIDDLE EAST,IR,IRN,364,.ir
+Iran (Islamic Republic of),MIDDLE EAST,MIDDLE EAST,IR,IRN,364,.ir
+Iraq,MIDDLE EAST,MIDDLE EAST,IQ,IRQ,368,.iq
+Ireland,EUROPE,EUROPEAN UNION,IE,IRL,372,.ie
+Isle of Man,EUROPE,EUROPE,IM,IMN,833,.im
+Israel,MIDDLE EAST,MIDDLE EAST,IL,ISR,376,.il
+Italy,EUROPE,EUROPEAN UNION,IT,ITA,380,.it
+Jamaica,THE AMERICAS,The Caribbean,JM,JAM,388,.jm
+Japan,ASIA,ASIA,JP,JPN,392,.jp
+Jersey,EUROPE,EUROPE,JE,JEY,832,.je
+Jordan,MIDDLE EAST,MIDDLE EAST,JO,JOR,400,.jo
+Kazakhstan,ASIA,ASIA,KZ,KAZ,398,.kz
+Kenya,AFRICA,Eastern Africa,KE,KEN,404,.ke
+Kiribati,OCEANIA,OCEANIA,KI,KIR,296,.ki
+Kosovo,EUROPE,EUROPE,,XKX,,
+Kuwait,MIDDLE EAST,MIDDLE EAST,KW,KWT,414,.kw
+Kyrgyz Republic,ASIA,ASIA,KG,KGZ,417,.kg
+Kyrgyzstan,ASIA,ASIA,KG,KGZ,417,.kg
+Lao,ASIA,ASIA,LA,LAO,418,.la
+Lao People's Democratic Republic (the),ASIA,ASIA,LA,LAO,418,.la
+Lao People's Democratic Republic,ASIA,ASIA,LA,LAO,418,.la
+Laos,ASIA,ASIA,LA,LAO,418,.la
+Latvia,EUROPE,EUROPEAN UNION,LV,LVA,428,.lv
+Lebanon,MIDDLE EAST,MIDDLE EAST,LB,LBN,422,.lb
+Lesotho,AFRICA,Southern Africa,LS,LSO,426,.ls
+Liberia,AFRICA,Western Africa,LR,LBR,430,.lr
+Libya,AFRICA,Northern Africa,LY,LBY,434,.ly
+Liechtenstein,EUROPE,EUROPE,LI,LIE,438,.li
+Lithuania,EUROPE,EUROPEAN UNION,LT,LTU,440,.lt
+Luxembourg,EUROPE,EUROPEAN UNION,LU,LUX,442,.lu
+Macao,ASIA,ASIA,MO,MAC,446,.mo
+"Macedonia, FYR",EUROPE,EUROPE,MK,MKD,807,.mk
+North Macedonia,EUROPE,EUROPE,MK,MKD,807,.mk
+Madagascar,AFRICA,Eastern Africa,MG,MDG,450,.mg
+Malawi,AFRICA,Eastern Africa,MW,MWI,454,.mw
+Malaysia,ASIA,ASIA,MY,MYS,458,.my
+Maldives,ASIA,ASIA,MV,MDV,462,.mv
+Mali,AFRICA,Western Africa,ML,MLI,466,.ml
+Malta,EUROPE,EUROPEAN UNION,MT,MLT,470,.mt
+Marshall Islands,OCEANIA,OCEANIA,MH,MHL,584,.mh
+Martinique,THE AMERICAS,The Caribbean,MQ,MTQ,474,.mq
+Mauritania,AFRICA,Western Africa,MR,MRT,478,.mr
+Mauritius,AFRICA,Eastern Africa,MU,MUS,480,.mu
+Mayotte,AFRICA,Eastern Africa,YT,MYT,175,.yt
+Mexico,THE AMERICAS,Central America,MX,MEX,484,.mx
+Micronesia,OCEANIA,OCEANIA,FM,FSM,583,.fm
+Micronesia (Federated States of),OCEANIA,OCEANIA,FM,FSM,583,.fm
+Republic of Moldova,EUROPE,EUROPE,MD,MDA,498,.md
+Moldova,EUROPE,EUROPE,MD,MDA,498,.md
+Monaco,EUROPE,EUROPE,MC,MCO,492,.mc
+Mongolia,ASIA,ASIA,MN,MNG,496,.mn
+Montenegro,EUROPE,EUROPE,ME,MNE,499,.me
+Montserrat,THE AMERICAS,The Caribbean,MS,MSR,500,.ms
+Morocco,AFRICA,Northern Africa,MA,MAR,504,.ma
+Mozambique,AFRICA,Eastern Africa,MZ,MOZ,508,.mz
+Myanmar,ASIA,ASIA,MM,MMR,104,.mm
+Namibia,AFRICA,Southern Africa,NA,NAM,516,.na
+Nepal,ASIA,ASIA,NP,NPL,524,.np
+Netherlands,EUROPE,EUROPEAN UNION,NL,NLD,528,.nl
+New Caledonia,OCEANIA,OCEANIA,NC,NCL,540,.nc
+New Zealand,OCEANIA,OCEANIA,NZ,NZL,554,.nz
+Nicaragua,THE AMERICAS,Central America,NI,NIC,558,.ni
+Niger,AFRICA,Western Africa,NE,NER,562,.ne
+Nigeria,AFRICA,Western Africa,NG,NGA,566,.ng
+North Korea,ASIA,ASIA,KP,PRK,408,.kp
+Democratic People's Republic of Korea,ASIA,ASIA,KP,PRK,408,.kp
+Norway,EUROPE,EUROPE,NO,NOR,578,.no
+Oman,MIDDLE EAST,MIDDLE EAST,OM,OMN,512,.om
+Pakistan,ASIA,ASIA,PK,PAK,586,.pk
+Palestine,MIDDLE EAST,MIDDLE EAST,PS,PSE,275,.ps
+State of Palestine,MIDDLE EAST,MIDDLE EAST,PS,PSE,275,.ps
+Panama,THE AMERICAS,Central America,PA,PAN,591,.pa
+Papua New Guinea,OCEANIA,OCEANIA,PG,PNG,598,.pg
+Paraguay,THE AMERICAS,South America,PY,PRY,600,.py
+Peru,THE AMERICAS,South America,PE,PER,604,.pe
+Philippines,ASIA,ASIA,PH,PHL,608,.ph
+Poland,EUROPE,EUROPEAN UNION,PL,POL,616,.pl
+Portugal,EUROPE,EUROPEAN UNION,PT,PRT,620,.pt
+Puerto Rico,THE AMERICAS,The Caribbean,PR,PRI,630,.pr
+Qatar,MIDDLE EAST,MIDDLE EAST,QA,QAT,634,.qa
+Republic of the Congo,AFRICA,Middle Africa,CG,COG,178,.cg
+Congo-Brazzaville,AFRICA,Middle Africa,CG,COG,178,.cg
+Reunion,AFRICA,Eastern Africa,RE,REU,638,.re
+Réunion,AFRICA,Eastern Africa,RE,REU,638,.re
+Romania,EUROPE,EUROPEAN UNION,RO,ROU,642,.ro
+Russia,EUROPE,EUROPE,RU,RUS,643,.ru
+Russian Federation,EUROPE,EUROPE,RU,RUS,643,.ru
+Rwanda,AFRICA,Eastern Africa,RW,RWA,646,.rw
+Saint Helena,AFRICA,Western Africa,SH,SHN,654,.sh
+Saint Martin,THE AMERICAS,The Caribbean,MF,MAF,663,.mf
+Saint Pierre and Miquelon,THE AMERICAS,Northern America,PM,SPM,666,.pm
+Saint-Barthélemy,THE AMERICAS,The Caribbean,BL,BLM,652,.bl
+Samoa,OCEANIA,OCEANIA,WS,WSM,882,.ws
+"Samoa, American",OCEANIA,OCEANIA,AS,ASM,016,.as
+American Samoa,OCEANIA,OCEANIA,AS,ASM,016,.as
+San Marino,EUROPE,EUROPE,SM,SMR,674,.sm
+Sao Tome and Principe,AFRICA,Middle Africa,ST,STP,678,.st
+Saudi Arabia,MIDDLE EAST,MIDDLE EAST,SA,SAU,682,.sa
+Senegal,AFRICA,Western Africa,SN,SEN,686,.sn
+Serbia,EUROPE,EUROPE,RS,SRB,688,.rs
+Seychelles,AFRICA,Eastern Africa,SC,SYC,690,.sc
+Sierra Leone,AFRICA,Western Africa,SL,SLE,694,.sl
+Singapore,ASIA,ASIA,SG,SGP,702,.sg
+Sint Maarten,THE AMERICAS,The Caribbean,SX,SXM,534,.sx
+Slovak Republic,EUROPE,EUROPEAN UNION,SK,SVK,703,.sk
+Slovakia,EUROPE,EUROPEAN UNION,SK,SVK,703,.sk
+Slovenia,EUROPE,EUROPEAN UNION,SI,SVN,705,.si
+Solomon Islands,OCEANIA,OCEANIA,SB,SLB,090,.sb
+Somalia,AFRICA,Eastern Africa,SO,SOM,706,.so
+South Africa,AFRICA,Southern Africa,ZA,ZAF,710,.za
+S. Korea,ASIA,ASIA,KR,KOR,410,.kr
+South Korea,ASIA,ASIA,KR,KOR,410,.kr
+South Sudan,AFRICA,Northern Africa,SS,SSD,728,.ss
+Spain,EUROPE,EUROPEAN UNION,ES,ESP,724,.es
+Sri Lanka,ASIA,ASIA,LK,LKA,144,.lk
+St. Kitts and Nevis,THE AMERICAS,The Caribbean,KN,KNA,659,.kn
+Saint Kitts & Nevis,THE AMERICAS,The Caribbean,KN,KNA,659,.kn
+Saint Kitts and Nevis,THE AMERICAS,The Caribbean,KN,KNA,659,.kn
+St. Lucia,THE AMERICAS,The Caribbean,LC,LCA,662,.lc
+Saint Lucia,THE AMERICAS,The Caribbean,LC,LCA,662,.lc
+Saint Vincent and the Grenadines,THE AMERICAS,The Caribbean,VC,VCT,670,.vc
+St. Vincent and the Grenadines,THE AMERICAS,The Caribbean,VC,VCT,670,.vc
+Sudan,AFRICA,Northern Africa,SD,SDN,729,.sd
+Suriname,THE AMERICAS,South America,SR,SUR,740,.sr
+Svalbard,EUROPE,EUROPE,SJ,SJM,744,
+Swaziland,AFRICA,Southern Africa,SZ,SWZ,748,.sz
+Eswatini,AFRICA,Southern Africa,SZ,SWZ,748,.sz
+Sweden,EUROPE,EUROPEAN UNION,SE,SWE,752,.se
+Switzerland,EUROPE,EUROPE,CH,CHE,756,.ch
+Syria,MIDDLE EAST,MIDDLE EAST,SY,SYR,760,.sy
+Taiwan,ASIA,ASIA,TW,TWN,158,.tw
+Tajikistan,ASIA,ASIA,TJ,TJK,762,.tj
+United Republic of Tanzania,AFRICA,Eastern Africa,TZ,TZA,834,.tz
+Tanzania,AFRICA,Eastern Africa,TZ,TZA,834,.tz
+Thailand,ASIA,ASIA,TH,THA,764,.th
+Timor-Leste,ASIA,ASIA,TL,TLS,626,.tl
+Togo,AFRICA,Western Africa,TG,TGO,768,.tg
+Tonga,OCEANIA,OCEANIA,TO,TON,776,.to
+Trinidad and Tobago,THE AMERICAS,The Caribbean,TT,TTO,780,.tt
+Tunisia,AFRICA,Northern Africa,TN,TUN,788,.tn
+Turkey,EUROPE,EUROPE,TR,TUR,792,.tr
+Turkmenistan,ASIA,ASIA,TM,TKM,795,.tm
+Turks and Caicos Islands,THE AMERICAS,The Caribbean,TC,TCA,796,.tc
+Uganda,AFRICA,Eastern Africa,UG,UGA,800,.ug
+Ukraine,EUROPE,EUROPE,UA,UKR,804,.ua
+United Arab Emirates,MIDDLE EAST,MIDDLE EAST,AE,ARE,784,.ae
+United Kingdom,EUROPE,EUROPEAN UNION,GB,GBR,826,.gb .uk
+U.K.,EUROPE,EUROPEAN UNION,GB,GBR,826,.gb .uk
+UK,EUROPE,EUROPEAN UNION,GB,GBR,826,.gb .uk
+United States of America,THE AMERICAS,Northern America,US,USA,840,.us
+USA,THE AMERICAS,Northern America,US,USA,840,.us
+United States,THE AMERICAS,Northern America,US,USA,840,.us
+Uruguay,THE AMERICAS,South America,UY,URY,858,.uy
+Uzbekistan,ASIA,ASIA,UZ,UZB,860,.uz
+Vanuatu,OCEANIA,OCEANIA,VU,VUT,548,.vu
+Vatican City State (Holy See),EUROPE,EUROPE,VA,VAT,336,.va
+Holy See,EUROPE,EUROPE,VA,VAT,336,.va
+Venezuela (Bolivarian Republic of),THE AMERICAS,South America,VE,VEN,862,.ve
+Venezuela,THE AMERICAS,South America,VE,VEN,862,.ve
+Viet Nam,ASIA,ASIA,VN,VNM,704,.vn
+Vietnam,ASIA,ASIA,VN,VNM,704,.vn
+United States Virgin Islands,THE AMERICAS,The Caribbean,VI,VIR,850,.vi
+Virgin Islands (US),THE AMERICAS,The Caribbean,VI,VIR,850,.vi
+U.S. Virgin Islands,THE AMERICAS,The Caribbean,VI,VIR,850,.vi
+Western Sahara,AFRICA,Northern Africa,EH,ESH,732,
+Yemen,MIDDLE EAST,MIDDLE EAST,YE,YEM,887,.ye
+Zambia,AFRICA,Eastern Africa,ZM,ZMB,894,.zm
+Zimbabwe,AFRICA,Eastern Africa,ZW,ZWE,716,.zw
+Bouvet Island,,,BV,BVT,074,
+Svalbard and Jan Mayen,,,SJ,SJM,744,
+United States Minor Outlying Islands (the),,,UM,UMI,581,
+U.A.E.,,,AE,ARE,784,.ae
+United Arab Emirates (the),,,AE,ARE,784,.ae
+Antarctica,,,AQ,ATA,010,.aq
+Åland Islands,,,AX,ALA,248,.ax
+Saint Barthélemy,,,BL,BLM,652,.bl
+Brunei Darussalam,,,BN,BRN,096,.bn
+Bolivia (Plurinational State of),,,BO,BOL,068,.bo
+"Bonaire, Sint Eustatius and Saba",,,BQ,BES,535,.bq .nl
+Cook Islands (the),,,CK,COK,184,.ck
+Cook Islands,,,CK,COK,184,.ck
+Christmas Island,,,CX,CXR,162,.cx
+Falkland Islands (the) [Malvinas],,,FK,FLK,238,.fk
+Falkland Islands,,,FK,FLK,238,.fk
+Cocos (Keeling) Islands (the),,,CC,CCK,166,.cc
+Cocos (Keeling) Islands,,,CC,CCK,166,.cc
+Heard Island and McDonald Islands,,,HM,HMD,334,.hm
+British Indian Ocean Territory (the),,,IO,IOT,086,.io
+Palau,,,PW,PLW,585,.pw
+Nauru,,,NR,NRU,520,.nr
+Niue,,,NU,NIU,570,.nu
+Pitcairn,,,PN,PCN,612,.pn
+French Southern Territories,,,TF,ATF,260,.tf
+Tokelau,,,TK,TKL,772,.tk
+Tuvalu,,,TV,TUV,798,.tv
+Wallis and Futuna,,,WF,WLF,876,.wf
+Wallis and Futuna Islands,,,WF,WLF,876,.wf
+Norfolk Island,,,NF,NFK,574,.nf
+South Georgia and the South Sandwich Islands,,,GS,SGS,239,.gs
