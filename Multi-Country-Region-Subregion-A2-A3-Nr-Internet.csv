@@ -14,6 +14,7 @@ Austria,EUROPE,EUROPEAN UNION,AT,AUT,040,.at
 Azerbaijan,ASIA,ASIA,AZ,AZE,031,.az
 Bahamas,THE AMERICAS,The Caribbean,BS,BHS,044,.bs
 Bahamas (the),THE AMERICAS,The Caribbean,BS,BHS,044,.bs
+"Bahamas, The",THE AMERICAS,The Caribbean,BS,BHS,044,.bs
 Bahrain,MIDDLE EAST,MIDDLE EAST,BH,BHR,048,.bh
 Bangladesh,ASIA,ASIA,BD,BGD,050,.bd
 Barbados,THE AMERICAS,The Caribbean,BB,BRB,052,.bb
@@ -60,6 +61,7 @@ Democratic Republic of the Congo,AFRICA,Middle Africa,CD,COD,180,.cd
 Congo,AFRICA,Middle Africa,CD,COD,180,.cd
 DR Congo,AFRICA,Middle Africa,CD,COD,180,.cd
 Congo-Kinshasa,AFRICA,Middle Africa,CD,COD,180,.cd
+Congo (Kinshasa),AFRICA,Middle Africa,CD,COD,180,.cd
 Denmark,EUROPE,EUROPEAN UNION,DK,DNK,208,.dk
 Djibouti,AFRICA,Eastern Africa,DJ,DJI,262,.dj
 Dominica,THE AMERICAS,The Caribbean,DM,DMA,212,.dm
@@ -83,6 +85,7 @@ French Polynesia,OCEANIA,OCEANIA,PF,PYF,258,.pf
 Gabon,AFRICA,Middle Africa,GA,GAB,266,.ga
 Gambia,AFRICA,Western Africa,GM,GMB,270,.gm
 Gambia (the),AFRICA,Western Africa,GM,GMB,270,.gm
+"Gambia, The",AFRICA,Western Africa,GM,GMB,270,.gm
 Georgia,ASIA,ASIA,GE,GEO,268,.ge
 Germany,EUROPE,EUROPEAN UNION,DE,DEU,276,.de
 Ghana,AFRICA,Western Africa,GH,GHA,288,.gh
@@ -187,6 +190,7 @@ Puerto Rico,THE AMERICAS,The Caribbean,PR,PRI,630,.pr
 Qatar,MIDDLE EAST,MIDDLE EAST,QA,QAT,634,.qa
 Republic of the Congo,AFRICA,Middle Africa,CG,COG,178,.cg
 Congo-Brazzaville,AFRICA,Middle Africa,CG,COG,178,.cg
+Congo-Congo (Brazzaville),AFRICA,Middle Africa,CG,COG,178,.cg
 Reunion,AFRICA,Eastern Africa,RE,REU,638,.re
 Réunion,AFRICA,Eastern Africa,RE,REU,638,.re
 Romania,EUROPE,EUROPEAN UNION,RO,ROU,642,.ro
@@ -217,6 +221,7 @@ Somalia,AFRICA,Eastern Africa,SO,SOM,706,.so
 South Africa,AFRICA,Southern Africa,ZA,ZAF,710,.za
 S. Korea,ASIA,ASIA,KR,KOR,410,.kr
 South Korea,ASIA,ASIA,KR,KOR,410,.kr
+"Korea, South",ASIA,ASIA,KR,KOR,410,.kr
 South Sudan,AFRICA,Northern Africa,SS,SSD,728,.ss
 Spain,EUROPE,EUROPEAN UNION,ES,ESP,724,.es
 Sri Lanka,ASIA,ASIA,LK,LKA,144,.lk
@@ -236,11 +241,13 @@ Sweden,EUROPE,EUROPEAN UNION,SE,SWE,752,.se
 Switzerland,EUROPE,EUROPE,CH,CHE,756,.ch
 Syria,MIDDLE EAST,MIDDLE EAST,SY,SYR,760,.sy
 Taiwan,ASIA,ASIA,TW,TWN,158,.tw
+Taiwan*,ASIA,ASIA,TW,TWN,158,.tw
 Tajikistan,ASIA,ASIA,TJ,TJK,762,.tj
 United Republic of Tanzania,AFRICA,Eastern Africa,TZ,TZA,834,.tz
 Tanzania,AFRICA,Eastern Africa,TZ,TZA,834,.tz
 Thailand,ASIA,ASIA,TH,THA,764,.th
 Timor-Leste,ASIA,ASIA,TL,TLS,626,.tl
+East Timor,ASIA,ASIA,TL,TLS,626,.tl
 Togo,AFRICA,Western Africa,TG,TGO,768,.tg
 Tonga,OCEANIA,OCEANIA,TO,TON,776,.to
 Trinidad and Tobago,THE AMERICAS,The Caribbean,TT,TTO,780,.tt
@@ -256,6 +263,7 @@ U.K.,EUROPE,EUROPEAN UNION,GB,GBR,826,.gb .uk
 UK,EUROPE,EUROPEAN UNION,GB,GBR,826,.gb .uk
 United States of America,THE AMERICAS,Northern America,US,USA,840,.us
 USA,THE AMERICAS,Northern America,US,USA,840,.us
+US,THE AMERICAS,Northern America,US,USA,840,.us
 United States,THE AMERICAS,Northern America,US,USA,840,.us
 Uruguay,THE AMERICAS,South America,UY,URY,858,.uy
 Uzbekistan,ASIA,ASIA,UZ,UZB,860,.uz
